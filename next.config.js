@@ -2,7 +2,7 @@
 const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
-  basePath:'/blogs'
+ // basePath:'/blogs'/// revoming this path
 }
 
 module.exports = nextConfig
