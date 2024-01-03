@@ -1,4 +1,4 @@
- default function Page(){
+export default function Page(){
 
-    return
+    return (<div><h1>App- 2</h1></div>)
 }
